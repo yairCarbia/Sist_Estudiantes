@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estudiantes", "Estudiantes\Estudiantes.csproj", "{DEB6FD86-5614-4807-80CF-6DBD8F7F3C30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{0C01C161-8291-4C38-B8A7-677D954D6280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{63DDD808-C2AC-4AC1-9A93-31F706E44F81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEB6FD86-5614-4807-80CF-6DBD8F7F3C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEB6FD86-5614-4807-80CF-6DBD8F7F3C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEB6FD86-5614-4807-80CF-6DBD8F7F3C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEB6FD86-5614-4807-80CF-6DBD8F7F3C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C01C161-8291-4C38-B8A7-677D954D6280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C01C161-8291-4C38-B8A7-677D954D6280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C01C161-8291-4C38-B8A7-677D954D6280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C01C161-8291-4C38-B8A7-677D954D6280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63DDD808-C2AC-4AC1-9A93-31F706E44F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63DDD808-C2AC-4AC1-9A93-31F706E44F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63DDD808-C2AC-4AC1-9A93-31F706E44F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63DDD808-C2AC-4AC1-9A93-31F706E44F81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE131A51-1BE9-45BC-9DC8-192829A47ACD}
+	EndGlobalSection
+EndGlobal
